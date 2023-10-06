@@ -25,4 +25,4 @@ To edit or delete a user, click the edit icon.
 
 You will then be able to edit the user's details or delete the user by clicking the red delete button. 
 
-![Edit user details paegg](../_assets/_images/edit-user/PNG)
+![Edit user details page](../_assets/_images/edit-user.PNG)
